@@ -1,3 +1,3 @@
 # Understanding Routing
 
-THis application displays my understanding of how FLask Routing functions.
+This application displays my understanding of how Flask Routing functions.
